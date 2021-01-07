@@ -1,0 +1,15 @@
+example<-matrix(c(1,2,3,4,5,6,7,8),nrow=4, ncol=2)
+example<-matrix(c(1,2,3,4,5,6,7,8),nrow=4, ncol=2)
+install.packages("ggplot2")
+source("https://bioconductor.org/biocLite.R") 
+biocLite (GenomicFeatures)
+install.packages("devtools")
+library(devtools)
+install_github("author/package")
+library(ggplot)
+help(package = "ggplot2")
+browseVignettes("ggplot2")
+help(devtool)
+??devtool
+install.packages("KernSmooth")
+sesion

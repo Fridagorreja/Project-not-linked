@@ -1,0 +1,1 @@
+.libPaths("C:/Users/xgorfr/Desktop/Learning R/Rpackages")
